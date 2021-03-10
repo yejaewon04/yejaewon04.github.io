@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "예재원"
 description              : "인공지능과 빅데이터를 위한 파이썬 학습하기"
-url                      : # the base hostname & protocol for your site e.g. "https://yejaewon04.github.io"
+url                      : "https://yejaewon04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yejaewon04/yejaewon04.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
