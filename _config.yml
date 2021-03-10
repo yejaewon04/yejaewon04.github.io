@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복한 컴퓨터 교육"
   location         : "대한민국,서울"
-  email            :
+  email            : "youty1919@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
